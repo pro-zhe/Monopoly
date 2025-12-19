@@ -1,6 +1,6 @@
 package Monopoly.model.data_structures;
 
-import Monopoly.model.Card;
+import Monopoly.model.card.Card;
 
 public class Queue {
     Card[] cards;

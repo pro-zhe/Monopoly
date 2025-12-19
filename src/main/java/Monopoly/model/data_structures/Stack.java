@@ -1,6 +1,6 @@
 package Monopoly.model.data_structures;
 
-import Monopoly.model.Action;
+import Monopoly.model.action.Action;
 
 import java.util.EmptyStackException;
 

@@ -8,6 +8,5 @@ public class GameState {
     Player currentPlayer;
     Queue communityCards;
     Queue chanceCards;
-    //logs should either be stored in a data structure
-    // or manually be handled in terminal
+    //something for handling event logs
 }

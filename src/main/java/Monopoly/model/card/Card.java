@@ -1,10 +1,7 @@
-package Monopoly.model;
+package Monopoly.model.card;
 
-import Monopoly.model.Enums.CardType;
-
-public class Card {
+public abstract class Card {
     int cardID;
-    CardType cardType;
     String description;
     //need <effectsType> & <effectValue> fields
     //uncertain of their data type
